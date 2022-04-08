@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 P
 - ⚡ Fun fact: ...
 -->
+[Linkedin](https://www.linkedin.com/in/julianascudilio/)
