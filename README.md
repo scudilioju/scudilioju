@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![fotoju](jugit1.png)
+![fotoju](ju1_git.png)
 
 Here are some ideas to get you started:
 
